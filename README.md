@@ -37,6 +37,8 @@ O projeto é composto pelos seguintes arquivos:
 
 Para executar o sistema, siga os seguintes passos:
 
+Observação: sistema linux Ubuntu.
+
 1. **Clone o repositório:**
     ```bash
     git clone [URL do seu repositório]
